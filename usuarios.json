@@ -1,0 +1,23 @@
+[
+{
+  "nombre": "Wilson",
+  "apellido": "Monge",
+  "correo": "wilson_monge@hotmail.com",
+  "usuario": "wmonge",
+  "password": "123456.a"
+},
+{
+  "nombre": "Alex",
+  "apellido": "Breedy",
+  "correo": "alex_1990@gmail.com",
+  "usuario": "abreedy",
+  "password": "alx123"
+},
+{
+  "nombre": "Santiago",
+  "apellido": "Albuja",
+  "correo": "salbuja@college.edu.ec",
+  "usuario": "salbuja",
+  "password": "ab_cd_1980"
+}
+]

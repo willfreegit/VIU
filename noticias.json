@@ -1,0 +1,49 @@
+[
+    {
+        "title": "Crisis de alimentos en Argentina",
+        "link": "https://www.tuttojuve.com/altre-notizie/tmw-juve-con-il-sassuolo-in-campo-rabiot-ed-arthur-576567",
+        "keywords": [
+            "Alimentos", "Crisis", "Argentina"
+        ],
+        "creator": null,
+        "video_url": null,
+        "description": "La crisis de alimentos se agrava en el pais sudamericano",
+        "content": null,
+        "pubDate": "2021-10-26 08:40:36",
+        "image_url": "https://net-storage.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/91/91375ad586e7ccd01030865dd52b222e-61449-8087c39faad72121becb6d1778778c8e.jpeg",
+        "source_id": "tuttojuve",
+        "categories": ["Internacional"]
+  
+    },
+    {
+        "title": "Estalla Guerra en Ucrania",
+        "link": "https://transfery.info/aktualnosci/piekny-gest-rb-lipsk-w-pucharze-niemiec-czerwone-byki-rezygnuja-z-pieniedzy-na-rzecz-mniejszego-rywala/156723",
+        "keywords": [ 
+          "Guerra", "Ucrania"
+        ],
+        "creator": [
+            "Rafa Bajer"
+        ],
+        "video_url": null,
+        "description": null,
+        "content": "La guerra en ucrania se agrava por la invasion Rusa",
+        "pubDate": "2021-10-26 08:39:52",
+        "image_url": null,
+        "source_id": "transfery",
+        "categories": ["Internacional", "Política"]
+    },
+    {
+        "title": "Mundial de Qatar arranca",
+        "link": "https://www.gld.nl/artikel/7420398/welke-muzikanten-vinden-het-leuk-om-tijdens-het-marktcafe-te-spelen",
+        "keywords": ["Mundial", "Futbol", "Qatar"],
+        "creator": null,
+        "video_url": null,
+        "description": null,
+        "content": null,
+        "pubDate": "2021-10-26 08:35:14",
+        "full_description": "LLego noviembre y el mundial comienza, las 32 selecciones ya se encuentran en qatar",
+        "image_url": "https://images.regiogroei.cloud/552x310/ae978b88-6d28-3825-8fb1-a3e63a425332.jpg",
+        "source_id": "omroepgelderland",
+        "categories": ["Deportes"]
+    }
+]
